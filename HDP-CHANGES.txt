@@ -174,3 +174,4 @@ Changes only in Hortonworks github and not in Ranger 0.7.0 Apache Release
 [RANGER-1990] : Add One-way SSL MySQL support in Ranger Admin
 [RANGER-2006] : Fix problems detected by static code analysis in ranger usersync for ldap sync source
 [RANGER-2008] : Policy evaluation is failing for multiline policy conditions.
+[RANGER-1731] : : Add jettison jar to the security-admin module
